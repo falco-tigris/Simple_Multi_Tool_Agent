@@ -21,7 +21,7 @@ A simple AI agent built with LangChain and LangGraph that can intelligently use 
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/falco-tigris/Simple_Multi_Tool_Agent.git
 cd Simple_Multi_Tool_Agent
 ```
 
