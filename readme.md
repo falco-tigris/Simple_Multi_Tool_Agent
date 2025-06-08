@@ -76,8 +76,7 @@ Agent: "A 15% tip on an $80 restaurant bill is $12.00."
 ```
 User: "Execute this Python code: print('Welcome to my AI agent!')"
 Agent: "The output of the executed code is:
-```
-Welcome to my AI agent!
+Welcome to my AI agent!"
 ```
 
 ### Web Search
@@ -92,7 +91,7 @@ Agent: "The current weather in Delhi is:
 ### Document Summarization
 ```
 User: "Summarize this URL: https://harrypotter.fandom.com/wiki/Albus_Dumbledore"
-Agent: [Provides comprehensive summary of Dumbledore's character, background, and role]
+Agent: "Albus Dumbledore was the headmaster of Hogwarts School of Witchcraft and Wizardry and one of the most powerful wizards in the Harry Potter series. He served as mentor to Harry Potter and played a crucial role in the fight against Lord Voldemort."
 ```
 
 ## 🖥️ Gradio Web Interface
