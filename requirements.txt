@@ -1,0 +1,10 @@
+langchain-openai
+langchain-core
+langchain-tavily
+langgraph
+langmem
+python-dotenv
+requests
+beautifulsoup4
+PyPDF2
+gradio 
