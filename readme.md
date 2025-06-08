@@ -88,3 +88,15 @@ Agent: "The current weather in Delhi is:
 - Condition: Sunny
 - Humidity: 57%"
 ```
+
+### Document Summarization
+```
+User: "Summarize this URL: https://harrypotter.fandom.com/wiki/Albus_Dumbledore"
+Agent: [Provides comprehensive summary of Dumbledore's character, background, and role]
+```
+
+
+---
+
+**Built with**: LangChain, LangGraph, OpenAI GPT-4, Gradio, and Tavily Search
+
