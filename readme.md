@@ -95,6 +95,19 @@ User: "Summarize this URL: https://harrypotter.fandom.com/wiki/Albus_Dumbledore"
 Agent: [Provides comprehensive summary of Dumbledore's character, background, and role]
 ```
 
+## 🖥️ Gradio Web Interface
+
+![MultiToolAgent Demo](assets/demo.png)
+
+*Screenshot showing the agent in action with a clean chat interface and sidebar features for document upload, memory demo, and code execution.*
+
+## 📊 Project Files
+
+- **MultiToolAgent.py** - Main agent implementation with Gradio UI and all tool integrations
+- **generate_logs.py** - Creates detailed interaction logs showing agent reasoning and tool usage  
+- **evaluation_suite.py** - Evaluates agent performance across different task categories
+- **detailed_interaction_logs.txt** - Sample interaction examples with step-by-step reasoning
+- **requirements.txt** - Python dependencies for the project
 
 ---
 
