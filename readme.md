@@ -97,7 +97,8 @@ Agent: [Provides comprehensive summary of Dumbledore's character, background, an
 
 ## 🖥️ Gradio Web Interface
 
-![MultiToolAgent Demo](assets/demo.png)
+<img src="https://raw.githubusercontent.com/falco-tigris/Simple_Multi_Tool_Agent/main/assets/demo.png" width="600"/>
+
 
 *Screenshot showing the agent in action with a clean chat interface and sidebar features for document upload, memory demo, and code execution.*
 
