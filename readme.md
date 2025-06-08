@@ -88,5 +88,3 @@ Agent: "The current weather in Delhi is:
 - Condition: Sunny
 - Humidity: 57%"
 ```
-
-
