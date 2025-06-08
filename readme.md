@@ -90,6 +90,3 @@ Agent: "The current weather in Delhi is:
 ```
 
 
-
-**Built with**: LangChain, LangGraph, OpenAI GPT-4, Gradio, and Tavily Search
-
